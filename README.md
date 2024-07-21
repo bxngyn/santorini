@@ -10,7 +10,7 @@ Requirements
 
 Usage
 -----
-Run `python3 <player white type> <player blue type> <enable undo/redo> <enable score display> ` in terminal. Options for 'player white type' and 'player blue type' are 'human', 'heuristic', and 'random'. If no argument is given, the player type will be defaulted to 'human'. Options for enable undo/redo and enable score display are 'on' and 'off'. If no argument is given, the default setting will be 'off'.
+Run `python3 <pWhite> <pBlue> <undo/redo> <score display>` in terminal. Options for 'player white type' and 'player blue type' are 'human', 'heuristic', and 'random'. If no argument is given, the player type will be defaulted to 'human'. Options for enable undo/redo and enable score display are 'on' and 'off'. If no argument is given, the default setting will be 'off'.
 
 
 Future Updates
